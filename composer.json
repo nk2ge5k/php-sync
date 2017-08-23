@@ -1,0 +1,16 @@
+{
+    "name": "nk2ge5k/php-sync",
+    "description": "Simple php mutex implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nk2ge5k",
+            "email": "nk2ge5k@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": { "" : "src/" }
+    }
+}
